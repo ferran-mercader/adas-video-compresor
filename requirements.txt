@@ -1,0 +1,6 @@
+# Dependencias para AVI to MP4 Video Compressor
+# El proyecto usa principalmente subprocess + FFmpeg, por lo que no requiere
+# dependencias externas para la funcionalidad principal.
+
+# Para crear el ejecutable Windows:
+pyinstaller>=6.0.0

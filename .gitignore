@@ -1,0 +1,19 @@
+# Videos
+*.avi
+*.mp4
+
+# Build outputs
+/dist
+/build
+*.spec
+
+# FFmpeg binaries
+/ffmpeg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp files
+ffmpeg-temp.zip
