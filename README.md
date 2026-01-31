@@ -2,6 +2,12 @@
 
 Convierte archivos de video `.avi` a `.mp4` (H.264) con progreso en tiempo real.
 
+## 📥 Descarga
+
+**[⬇️ Descargar última versión](https://github.com/ferran-mercader/adas-video-compresor/releases/latest)**
+
+> El ejecutable es portable y no requiere instalación. Incluye FFmpeg.
+
 ## Características
 
 - 🎬 Conversión de AVI a MP4 con códec H.264
@@ -14,10 +20,11 @@ Convierte archivos de video `.avi` a `.mp4` (H.264) con progreso en tiempo real.
 
 ### Opción 1: Ejecutable Windows (Recomendado)
 
-1. Descarga `avi2mp4.exe` de la carpeta `dist/`
-2. Coloca el ejecutable en la carpeta con tus videos `.avi`
-3. Ejecuta `avi2mp4.exe`
-4. Los videos convertidos aparecerán en `output/`
+1. Descarga `avi2mp4.zip` desde [Releases](https://github.com/ferran-mercader/adas-video-compresor/releases/latest)
+2. Extrae el contenido
+3. Coloca la carpeta `avi2mp4/` junto a tus videos `.avi`
+4. Ejecuta `avi2mp4.exe`
+5. Los videos convertidos aparecerán en `output/`
 
 ### Opción 2: Script Python
 
